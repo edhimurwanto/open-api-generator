@@ -2,7 +2,7 @@
 
 Custom template for OpenAPI generator
 
-### Build the jar 
+### Build the project 
 
 ```
 mvn clean package
