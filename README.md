@@ -1,6 +1,6 @@
-# CustomTemplate
+# Open API generator - Custom Template
 
-Custom template for OpenAPI generator
+The custom template for OpenAPI generator
 
 ### Build the project 
 
