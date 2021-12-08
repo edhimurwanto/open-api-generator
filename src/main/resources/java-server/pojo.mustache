@@ -1,0 +1,13 @@
+package org.simpleserver.entities;
+
+{{#models}}
+    {{#model}}
+public class {{classname}} {
+    {{#vars}}
+    private {{datatype}} {{{name}}};
+    {{/vars}}
+}
+    {{/model}}
+{{/models}}
+
+
